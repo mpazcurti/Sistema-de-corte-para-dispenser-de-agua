@@ -52,7 +52,7 @@ El [repositorio](https://github.com/mpazcurti/Sistema-de-corte-para-dispenser-de
 │   ├── main.cpp  
 │   └── mbed-os.lib  
 
-Se tiene el archivo main.cpp en donde se encuentra el programa principal del sistema, el README.md el cual es el presente archivo contenedor de la información acerca del proyecto y los archivos necesarios para la configuración de Mbed OS.
+Por un lado se tiene el archivo main.cpp en donde se encuentra el programa principal del sistema, por otro lado los archivos necesarios para la configuración de Mbed OS y finalmente un README.md el cual es el presente archivo contenedor de la información acerca del proyecto.
 
 
 
